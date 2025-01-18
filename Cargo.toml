@@ -1,0 +1,9 @@
+[package]
+name = "exif_tool"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+regex = "1.7"
+rexiv2 = "0.10.0"
+image = "0.24.6"
